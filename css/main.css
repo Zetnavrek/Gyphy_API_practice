@@ -1,7 +1,10 @@
 /*font-family: 'Roboto', sans-serif;*/
 
 body {
-    background-color: #c0c5ce;
+    background-image: url("../assets/image/gallaxy.jpg");
+    width: 100%;
+    background-size: cover;
+    max-height: auto;
 }
 
 .container {
